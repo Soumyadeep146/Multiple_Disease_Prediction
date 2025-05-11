@@ -8,7 +8,7 @@ An end-to-end machine learning application that predicts the likelihood of multi
 * ✅ **Lung Cancer**
 * ✅ **Parkinson’s Disease**
 * ✅ **Thyroid Disorder**
-* ✅ **Diabetes** *(presumably included inside the main script)*
+* ✅ **Diabetes** 
 
 ## 🚀 Features
 
@@ -93,10 +93,3 @@ Final models are saved using `pickle` and loaded into the main Streamlit script.
 
 Contributions are welcome! Please open an issue or pull request for discussion.
 
-## 📬 Contact
-
-For suggestions, collaborations, or feedback, connect on [LinkedIn](https://linkedin.com/in/yourprofile) or [email](mailto:youremail@example.com).
-
----
-
-Would you like help bundling this into a GitHub repository, or generating badges and visuals to enhance the README?
