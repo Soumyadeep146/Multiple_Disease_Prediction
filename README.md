@@ -21,14 +21,14 @@ An end-to-end machine learning application that predicts the likelihood of multi
 ## 📁 Project Structure
 
 ```
-├── Heart_Disease_Prediction.ipynb      # EDA + model for Heart Disease
-├── Lung_Cancer.ipynb                   # EDA + model for Lung Cancer
-├── Parkinson's_Disease_Detection.ipynb # EDA + model for Parkinson’s
-├── Thyroid.ipynb                       # EDA + model for Thyroid
-├── Multiple_Disease_Pred.py            # Streamlit app interface
-├── models/                             # Contains trained .pkl model files
-├── requirements.txt                    # List of dependencies
-└── README.md                           # Project documentation
+├── Heart_Disease_Prediction.ipynb      
+├── Lung_Cancer.ipynb                   
+├── Parkinson's_Disease_Detection.ipynb 
+├── Thyroid.ipynb                      
+├── Multiple_Disease_Pred.py           
+├── models/                            
+├── requirements.txt                    
+└── README.md                           
 ```
 
 ## 🛠️ Tech Stack
